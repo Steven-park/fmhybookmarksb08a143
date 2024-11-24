@@ -1,3 +1,9 @@
+archive of bookmarks at b08a143
+at nov 4 2024 
+
+
+
+
 This repository is programmed to automatically generate browser bookmarks for the link collection FMHY.
 
 Bookmarks are generated as HTML files which can be imported into any web browser.
